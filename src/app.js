@@ -1,11 +1,10 @@
-// src/App.jsx
 function App() {
   return (
     <div style={{ textAlign: 'center', marginTop: '50px', fontFamily: 'sans-serif' }}>
       <img src="https://via.placeholder.com/150" alt="Profile" style={{ borderRadius: '50%' }} />
       <h1>jmcordoba</h1>
       <p>Full Stack Developer | Coffee Lover</p>
-      
+
       <div style={{ display: 'flex', flexDirection: 'column', gap: '10px', alignItems: 'center' }}>
         <a href="https://github.com/jmcordoba" style={linkStyle}>GitHub</a>
         <a href="https://linkedin.com/jmcordoba" style={linkStyle}>LinkedIn</a>
